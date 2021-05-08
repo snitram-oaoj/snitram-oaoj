@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @snitram-oaoj
+- 👀 I’m interested in Software Development, currently focused on Web/Mobile development.
+- 🌱 I’m currently Working with Reactjs&GraphQL, learning a lit bit more everyday :)
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can reach me by email to: martinscodept@gmail.com
